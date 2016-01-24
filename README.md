@@ -36,7 +36,7 @@ index:  [3 4 6 2 1 5]
 650 + 4 = 654
 ```
 
-## Modes
+## Game Modes
 * classic game (countdown.mod)
 * exponential operator (countdown_power.mod)
 * use all operators (countdown_allops.mod)
