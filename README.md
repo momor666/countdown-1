@@ -2,11 +2,11 @@
 Adaptation of Numbers round Countdown (game show) with Constraint Programming
 
 ## Dependencies
-    * IBM Ilog Optimization Studio
+* IBM Ilog Optimization Studio
 
 ## How to use it
-    * Choose a game mode (*mod* file)
-    * Uncomment or add one instance of game in *countdown.dat*
+* Choose a game mode (*mod* file)
+* Uncomment or add one instance of game in *countdown.dat*
 
 ### Command
 `oplrun countdown.mod countdown.dat`
@@ -37,9 +37,9 @@ index:  [3 4 6 2 1 5]
 ```
 
 ## Modes
-    * classic game (countdown.mod)
-    * exponential operator (countdown_power.mod)
-    * use all operators (countdown_allops.mod)
-    * negative numbers (countdown_neg.mod)
-    * choose number of operations (countdown_ops.mod)
+* classic game (countdown.mod)
+* exponential operator (countdown_power.mod)
+* use all operators (countdown_allops.mod)
+* negative numbers (countdown_neg.mod)
+* choose number of operations (countdown_ops.mod)
 
