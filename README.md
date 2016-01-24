@@ -1,5 +1,5 @@
 # countdown
-Adaptation of Numbers round of Countdown (game show) in OPL with Constraint Programming
+Numbers round of Countdown (game show) in OPL with Constraint Programming
 
 ## Dependencies
 * IBM Ilog Optimization Studio
